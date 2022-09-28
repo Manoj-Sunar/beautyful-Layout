@@ -81,7 +81,7 @@ html {
   --secondary-font: "Quicksand", sans-serif;
 }
 
-.developer .btn {
+/* .developer .btn {
   display: inline-block;
   padding: 1.3rem 1.975rem;
   text-decoration: none;
@@ -105,7 +105,7 @@ html {
   background-color: var(--primary-color);
   border-color: var(--primary-color);
   color: var(--white-color);
-}
+} */
 
 @media (max-width: 768px) {
   .developer {
